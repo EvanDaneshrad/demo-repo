@@ -1,0 +1,13 @@
+# Compiled Java
+*.class
+
+# Build output
+build/
+
+# macOS
+.DS_Store
+
+# Editor
+.vscode/
+
+password.txt
